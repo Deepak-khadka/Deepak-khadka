@@ -5,6 +5,7 @@
 *I code with 😗
 <p>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-8DD6F9?style=flat-square&logo=laravel" /> 
+  <img alt="react" src="https://img.shields.io/badge/-REACT-29A1447F?style=flat-square&logo=react&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-F9A03C?style=flat-square&logo=vue.js" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="php" src="https://img.shields.io/badge/-PHP-CB3837?style=flat-square&logo=php" />
@@ -13,5 +14,7 @@
   <img alt="Jquery" src="https://img.shields.io/badge/-Jquery-EC4A3F?style=flat-square&logo=jquery" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-F7B93E?style=flat-square&logo=dart" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-13aa52?style=flat-square&logo=flutter" />
+  <img alt="java" src="https://img.shields.io/badge/-JAVA-E95F26?style=flat-square&logo=java&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-43853d?style=flat-square&logo=mysql&logoColor=white" />
+   <img alt="jupyter" src="https://img.shields.io/badge/-JUPYTER-F7B93E?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
